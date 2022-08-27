@@ -1,10 +1,10 @@
 let fetch = require('node-fetch')
 let handler = async (m, { conn, args }) => {
    response = args.join(' ').split('|')
-  if (!args[0]) throw 'Masukkan Text\nContoh : .flaming4 BOTCAHX'
+  if (!args[0]) throw 'Masukkan Text\nContoh : .flaming4 HUDHA-BOT'
   m.reply('_Proses..._')
   let res = `https://botcahx-rest-api.herokuapp.com/api/photooxy/naruto?text=${response[0]}`
-  conn.sendFile(m.chat, res, 'botcahx.jpg', `© BOTCAHX`, m, false)
+  conn.sendFile(m.chat, res, 'botcahx.jpg', `© HUDHA-BOT`, m, false)
 }
 handler.help = ['flaming9'].map(v => v + ' <text>')
 handler.tags = ['maker']
