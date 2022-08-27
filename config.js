@@ -1,13 +1,13 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6285767154127'] 
-global.mods = ['6285767154127'] 
+global.owner = ['6283174295037'] 
+global.mods = ['6283174295037'] 
 global.prems = ['6285767154127'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Moch Hudha'
-global.numberowner = '6285767154127'
+global.numberowner = '6283174295037'
 global.instagram = 'https://instagram.com/'
 global.github = 'https://github.com/'
 global.dana = '6285767154127'
@@ -15,7 +15,7 @@ global.pulsa = '6285767154127'
 global.gopay = ''
 
 //『 Info Bot 』//
-global.namebot = 'Hudha-Md'
+global.namebot = 'HUDHA-BOT'
 global.gc = 'https://chat.whatsapp.com/'
 global.web = 'Cari Apa?' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
